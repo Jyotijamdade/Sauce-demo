@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T14:45:05 IST" name="Suite" finished-at="2023-01-04T14:45:45 IST" duration-ms="39814">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T14:45:05 IST" name="Test" finished-at="2023-01-04T14:45:45 IST" duration-ms="39814">
+      <class name="com.sauceDemo.TestPackage.TC04_TestClass_VerifyAllpoductSelect">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestClass_VerifyAllpoductSelect@593aaf41]" started-at="2023-01-04T14:45:05 IST" name="setup" finished-at="2023-01-04T14:45:18 IST" duration-ms="12126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyallproductselectfunctionality()[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestClass_VerifyAllpoductSelect@593aaf41]" started-at="2023-01-04T14:45:18 IST" name="verifyallproductselectfunctionality" finished-at="2023-01-04T14:45:18 IST" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyallproductselectfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestClass_VerifyAllpoductSelect@593aaf41]" started-at="2023-01-04T14:45:18 IST" name="teardown" finished-at="2023-01-04T14:45:19 IST" duration-ms="882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sauceDemo.TestPackage.TC04_TestClass_VerifyAllpoductSelect -->
+      <class name="com.sauceDemo.TestPackage.TC02_TestClass_LogoutpageVerify">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestClass_LogoutpageVerify@7db12bb6]" started-at="2023-01-04T14:45:19 IST" name="setup" finished-at="2023-01-04T14:45:29 IST" duration-ms="10031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogoutpagefunctionality()[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestClass_LogoutpageVerify@7db12bb6]" started-at="2023-01-04T14:45:29 IST" name="verifylogoutpagefunctionality" finished-at="2023-01-04T14:45:30 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoutpagefunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestClass_LogoutpageVerify@7db12bb6]" started-at="2023-01-04T14:45:30 IST" name="teardown" finished-at="2023-01-04T14:45:30 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sauceDemo.TestPackage.TC02_TestClass_LogoutpageVerify -->
+      <class name="com.sauceDemo.TestPackage.TC01_TestClass_LoginPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestClass_LoginPage@783a467b]" started-at="2023-01-04T14:45:30 IST" name="setup" finished-at="2023-01-04T14:45:37 IST" duration-ms="7397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyloginpagefunctionality()[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestClass_LoginPage@783a467b]" started-at="2023-01-04T14:45:37 IST" name="verifyloginpagefunctionality" finished-at="2023-01-04T14:45:37 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginpagefunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestClass_LoginPage@783a467b]" started-at="2023-01-04T14:45:37 IST" name="teardown" finished-at="2023-01-04T14:45:38 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sauceDemo.TestPackage.TC01_TestClass_LoginPage -->
+      <class name="com.sauceDemo.TestPackage.TC03_TestClass_Verify1productSelect">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestClass_Verify1productSelect@272113c4]" started-at="2023-01-04T14:45:38 IST" name="setup" finished-at="2023-01-04T14:45:44 IST" duration-ms="6718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify1productselectfunctionality()[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestClass_Verify1productSelect@272113c4]" started-at="2023-01-04T14:45:44 IST" name="verify1productselectfunctionality" finished-at="2023-01-04T14:45:45 IST" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify1productselectfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestClass_Verify1productSelect@272113c4]" started-at="2023-01-04T14:45:45 IST" name="teardown" finished-at="2023-01-04T14:45:45 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sauceDemo.TestPackage.TC03_TestClass_Verify1productSelect -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

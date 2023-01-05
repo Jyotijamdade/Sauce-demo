@@ -1,0 +1,82 @@
+2023-01-04 14:36:17,335  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:36:20,635  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:36:28,228  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:36:31,525  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:36:39,591  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:36:39,592  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:36:43,396  INFO [main] SauceDemoProject1:27 - Clicked on all Product
+2023-01-04 14:36:43,399  INFO [main] SauceDemoProject1:29 - Apply the validation
+2023-01-04 14:36:44,489  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:36:44,493  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:36:49,992  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:36:50,148  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:36:53,472  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:36:53,674  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:36:53,892  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:36:54,096  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:36:54,103  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:36:57,849  INFO [main] SauceDemoProject1:32 - Apply the Validation
+2023-01-04 14:36:59,110  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:36:59,110  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:37:03,020  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:37:03,171  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:37:05,376  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:37:05,589  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:37:05,761  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:37:05,974  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:37:05,976  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:37:06,431  INFO [main] SauceDemoProject1:22 - Apply the Validation
+2023-01-04 14:37:06,692  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:37:06,693  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:37:10,033  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:37:10,190  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:37:13,024  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:37:13,345  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:37:13,651  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:37:14,259  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:37:14,260  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:37:17,444  INFO [main] SauceDemoProject1:25 - Clicked on Product1
+2023-01-04 14:37:18,577  INFO [main] SauceDemoProject1:27 - click on add to cart
+2023-01-04 14:37:19,896  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:37:19,897  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:45:14,721  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:45:16,478  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:45:16,913  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:45:17,123  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:45:17,440  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:45:17,441  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:45:18,864  INFO [main] SauceDemoProject1:27 - Clicked on all Product
+2023-01-04 14:45:18,866  INFO [main] SauceDemoProject1:29 - Apply the validation
+2023-01-04 14:45:19,817  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:45:19,819  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:45:22,494  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:45:22,781  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:45:28,606  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:45:28,822  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:45:28,985  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:45:29,203  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:45:29,210  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:45:29,866  INFO [main] SauceDemoProject1:32 - Apply the Validation
+2023-01-04 14:45:30,496  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:45:30,497  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:45:32,853  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:45:33,008  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:45:35,928  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:45:36,262  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:45:36,429  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:45:36,839  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:45:36,840  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:45:37,901  INFO [main] SauceDemoProject1:22 - Apply the Validation
+2023-01-04 14:45:38,217  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:45:38,218  INFO [main] SauceDemoProject1:89 - End of Program
+2023-01-04 14:45:40,755  INFO [main] SauceDemoProject1:40 - browser is opened
+2023-01-04 14:45:40,889  INFO [main] SauceDemoProject1:52 - maximized browser
+2023-01-04 14:45:43,842  INFO [main] SauceDemoProject1:58 - url is opened
+2023-01-04 14:45:44,125  INFO [main] SauceDemoProject1:62 - enter username
+2023-01-04 14:45:44,292  INFO [main] SauceDemoProject1:64 - enter passward
+2023-01-04 14:45:44,503  INFO [main] SauceDemoProject1:66 - click login
+2023-01-04 14:45:44,504  INFO [main] SauceDemoProject1:67 - Went to home page
+2023-01-04 14:45:45,131  INFO [main] SauceDemoProject1:25 - Clicked on Product1
+2023-01-04 14:45:45,368  INFO [main] SauceDemoProject1:27 - click on add to cart
+2023-01-04 14:45:45,636  INFO [main] SauceDemoProject1:87 - browser is closed
+2023-01-04 14:45:45,636  INFO [main] SauceDemoProject1:89 - End of Program
